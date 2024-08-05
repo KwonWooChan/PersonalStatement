@@ -1,2 +1,25 @@
-# PersonalStatement
-Kwon Woo Chan's Personal Statement
+# 자기소개서 연습
+
+-----
+
+
+## 이름
+
+
+## 생년월일
+
+
+## 학교
+
+* 강원특별자치도
+    + 삼척시
+        - [삼척고등학교](https://samchok.gwe.hs.kr/main.do)
+
+## 취미 
+
+
+
+## 자기소개 글
+
+
+
